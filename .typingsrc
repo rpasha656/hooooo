@@ -1,0 +1,5 @@
+{
+    "proxy" : "http://proxy.schwab.com:8080",
+    "proxy-https" : "http://proxy.schwab.com:8080",
+    "rejectUnauthorized" : false
+}
